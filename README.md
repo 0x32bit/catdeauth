@@ -1,5 +1,4 @@
 # catdeauth
-<div align="center">
 <p align="center">
 <center> <b> lightly-modified deauther to support cheap I2C 0,96 Inch display Without bug 
 <br> ( flipped display, display not working and frezze ) </br> </b> </center> 
