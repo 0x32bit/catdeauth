@@ -1,7 +1,7 @@
 # catdeauth
 <p align="center">
-<center> <b> lightly-modified deauther to support cheap I2C 0,96 Inch display Without bug 
-<br> ( flipped display, display not working and frezze ) </br> </b> </center> 
+<center> <b> lightly-modified deauther to support cheap I2C 0,96 Inch display Without  
+<br> flipped display, display not working and frezze </br> </b> </center> 
 
 <img title="cat" src="https://uploads.dailydot.com/2024/07/side-eye-cat.jpg?q=65&auto=format&w=1600&ar=2:1&fit=crop"></a><br>
 
@@ -54,6 +54,12 @@ and then flash it to this [website](https://esp.huhn.me/)
 -Depending on your board, you might have to select a configuration setting at Tools > Deauther Config
 -If you need to reset the settings from a prior installation, make sure to select Tools > Erase Flash > All Flash Contents
 
+## Default Password
+SSID = meow
+PASSWORD = `catdeauth`
+
+## NOTE 
+THE DISPLAY ALREADY ENABLED BY DEFAULT. SO YOU CAN USE THE DISPLAY WITHOUT OPEN THE WEBSITE.
 
 # DIY 
 
