@@ -1,6 +1,6 @@
 # catdeauth
 <p align="center">
-<center> <b> lightly-modified deauther to support cheap I2C 0,96 Inch display Without  
+<center> <b> lightly-modified deauther to support cheap I2C 0,96 Inch display without bugs
 <br> flipped display, display not working and frezze </br> </b> </center> 
 
 <img title="cat" src="https://uploads.dailydot.com/2024/07/side-eye-cat.jpg?q=65&auto=format&w=1600&ar=2:1&fit=crop"></a><br>
